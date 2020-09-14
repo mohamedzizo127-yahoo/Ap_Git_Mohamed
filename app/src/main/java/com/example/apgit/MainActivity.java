@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public String returnName(){
     return "mohamed zizo";
     }
+    public String returAge(){
+        return "34";
+    }
 
 }
